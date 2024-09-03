@@ -189,4 +189,5 @@ Besides SQL, I was given the opportunity to be exposed to platforms such as SQLi
 I also built this ReadMe from scratch through the guidance of Luke in this course. This proves my learning ability. 
 
 ![Course Certificate](assets/Certificate.png)
+
 *The Certificate that proves that I've completed the course by Luke Barousse*
