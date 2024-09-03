@@ -177,7 +177,7 @@ Following that, I've also learn Comparisons and Operations to manipulate data us
 Other basics such as Wildcards, Aggregation, NULL Values and JOINs allows me to manipulate data using commands such as *"LIKE, %, _, SUM, COUNT, AVG, GROUP BY, HAVING, IS NULL, IS NOT NULL, LEFT JOIN and INNER JOIN"*
 
 I also learnt Advanced SQL skills such as:
-[Data Types](postgresql.org/docs/current/datatype.html), Manipulate data using (CREATE, INSERT, ALTER, DROP) commands, Database Load which is a skill not shown here, DATEs such as (::DATE, AT TIME ZONE, EXTRACT), CASE Expression such as (CASE WHEN), Subqueries & CTEs using (WITH) command which as displayed above and lastly UNIONs to merge tables.
+[Data Types](https://www.postgresql.org/docs/current/datatype.html), Manipulate data using (CREATE, INSERT, ALTER, DROP) commands, Database Load which is a skill not shown here, DATEs such as (::DATE, AT TIME ZONE, EXTRACT), CASE Expression such as (CASE WHEN), Subqueries & CTEs using (WITH) command which as displayed above and lastly UNIONs to merge tables.
 
 # Conclusions
 This course was not without hiccups, I had to troubleshoot and resolve issues when the csv files did not load and when I was unable to connect to GitHub due to me making my email private.
