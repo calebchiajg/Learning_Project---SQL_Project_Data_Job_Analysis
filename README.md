@@ -50,8 +50,10 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](assets/top_paying_job.png)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts; created using Numbers on Mac*
--I do understand that at this point of time, I lack data visualizing skills and I plan to upskill myself on that portion. I won't be trying to display any data visualizing skills below anymore as I've yet to master them at this moment.
+**Bar graph visualizing the salary for the top 10 salaries for data analysts; created using Numbers on Mac**
+
+- I do understand that at this point of time, I lack data visualizing skills and I plan to upskill myself on that portion. 
+- I won't be trying to display any data visualizing skills below anymore as I've yet to master them at this moment.
 
 
 ### 2. Skills Required for remote top-paying jobs
@@ -88,10 +90,11 @@ ORDER BY
     salary_year_avg DESC
 ```
 Data Insights from ChatGPT:
--**High Demand for SQL:** SQL is the most frequently required skill across top-paying data analyst roles. It appears consistently across various job titles, indicating its critical importance in the data analytics field.
--**Diverse Skill Requirements:** In addition to SQL, other programming languages like Python, R, and tools such as Tableau, Excel, and Power BI are also frequently mentioned. 
+
+- **High Demand for SQL:** SQL is the most frequently required skill across top-paying data analyst roles. It appears consistently across various job titles, indicating its critical importance in the data analytics field.
+- **Diverse Skill Requirements:** In addition to SQL, other programming languages like Python, R, and tools such as Tableau, Excel, and Power BI are also frequently mentioned. 
 This suggests that successful candidates need a broad skill set encompassing both programming and data visualization tools.
--**Cloud and Big Data Skills are Valued:** Skills related to cloud platforms (Azure, AWS) and big data processing (Databricks, Hadoop) are increasingly sought after, particularly in higher-paying roles. 
+- **Cloud and Big Data Skills are Valued:** Skills related to cloud platforms (Azure, AWS) and big data processing (Databricks, Hadoop) are increasingly sought after, particularly in higher-paying roles. 
 This reflects the industry's shift toward cloud computing and big data analytics.
 
 
@@ -116,7 +119,7 @@ ORDER BY
 LIMIT 5;
 
 ```
-As the insights are a repetition of what I did for previous two queries, I'll not be displaying them as the main purpose of this repository is to show that I have SQL skills.
+- As the insights are a repetition of what I did for previous two queries, I'll not be displaying them as the main purpose of this repository is to show that I have SQL skills.
 
 ### 4. Which skills are associated with higher salaries?
 I found the average annual salary and rounded the numbers up to clean up the data. 
