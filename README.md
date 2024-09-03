@@ -22,7 +22,7 @@ I was looking through YouTube to learn about SQL and this is the project Luke Ba
 # The Analysis (A skill I am currently lacking)
 
 ### 1. Top-paying data analyst jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field. 
 
 ```sql
 SELECT
