@@ -1,5 +1,6 @@
 # Introduction
-This repository is for me to display my SQL knowledge. Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
+This repository is for me to display my SQL learning. 
+Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 
 SQL queries? Check them out here: [project_sql folder](/project_sql/).
 
