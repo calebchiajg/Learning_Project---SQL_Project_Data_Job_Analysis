@@ -20,7 +20,7 @@ I was looking through YouTube to learn about SQL and this is the project Luke Ba
 - **Visual Studio Code**: My go-to for database management and SQL queries
 - **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-# The Analysis (A skill I am currently lacking)
+# The Analysis 
 
 ### 1. Top-paying data analyst jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field. 
@@ -53,12 +53,10 @@ Here's the breakdown of the top data analyst jobs in 2023:
 ![Top Paying Roles](assets/top_paying_job.png)
 **Bar graph visualizing the salary for the top 10 salaries for data analysts; created using Numbers on Mac**
 
-- I do understand that at this point of time, I lack data visualizing skills and I plan to upskill myself on that portion. 
-- I won't be trying to display any data visualizing skills below anymore as I've yet to master them at this moment.
-
 
 ### 2. Skills Required for remote top-paying jobs
-To identify the skills required for top-paying jobs, I created a Common Table Expression (CTE), which is the result set of a query which exists temporarily for me to filter the top paying Remote Data Analyst jobs. After which, I identified the skills that is tagged to those jobs.
+To identify the skills required for top-paying jobs, I created a Common Table Expression (CTE), which is the result set of a query which exists temporarily for me to filter the top paying Remote Data Analyst jobs. 
+After which, I identified the skills that is tagged to those jobs.
 
  I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
@@ -90,7 +88,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC
 ```
-Data Insights from ChatGPT:
+Data Insights:
 
 - **High Demand for SQL:** SQL is the most frequently required skill across top-paying data analyst roles. It appears consistently across various job titles, indicating its critical importance in the data analytics field.
 - **Diverse Skill Requirements:** In addition to SQL, other programming languages like Python, R, and tools such as Tableau, Excel, and Power BI are also frequently mentioned. 
